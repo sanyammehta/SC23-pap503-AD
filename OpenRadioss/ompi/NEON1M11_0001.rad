@@ -1,32 +1,3 @@
-#-  1. :
-#---1----|----2----|----3----|----4----|----5----|----6----|----7----|----8----|----9----|---10----|
-/ANIM/DT
-#   TSTART     TFREQ
-0.000000 0.005000
-/ANIM/MASS
-/MON/ON
-/PARITH/ON
-/PRINT/-100
-/RFILE
-#   NCYCLE
-50000
-/RUN/NEON1M11/1
-                0.08
-/TFILE/4
-#            dT_HIS
-0.000500
-/TITLE
-NEON FE MODEL (NCAC V04i)                                                                           
-/VERS/2017
-/INIV/TRA/X/1
-     12300
-         1  11221631
-/ANIM/ELEM/ENER
-/ANIM/ELEM/EPSP
-/ANIM/ELEM/VONM
-/DT/BRICK/CST/0
-0.9 1e-007
-/DT/NODA/CST/0
-0.67 5e-007
-/DT/INTER/DEL
-0.67 5e-007
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee13a0b35e1e10373b71f470595463795494726ced8b7534e12b1ddd270600e4
+size 624
